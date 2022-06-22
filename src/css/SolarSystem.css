@@ -1,0 +1,12 @@
+.SolarSystem {
+    font-size: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    flex: 1 1 0;
+    min-width: 25%;
+    margin: 5px 5px;
+    /* border: 1px red solid; */
+    /* border-radius: 10px; */
+}
