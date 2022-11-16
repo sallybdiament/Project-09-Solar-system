@@ -1,5 +1,4 @@
-# Solar System - Front-End Project:
-#<h1 align="center">
+<h1 align="center"> Solar System - Front-End Project:
 Click to see the [project](https://sallybdiament.github.io/Project-09-Solar-system/)
 </h1>
 
