@@ -1,6 +1,5 @@
 <h1 align="center"> Solar System - Front-End Project:
-Click to see the [project](https://sallybdiament.github.io/Project-09-Solar-system/)
-</h1>
+Click to see the <a href="https://sallybdiament.github.io/Project-09-Solar-system/">project</a></h1>
 
 Projeto em React que renderiza todos os planetas do sistema solar e cartas com informações sobre as missões especiais.
 Com componentes de classe em `.jsx`, método `render()`, `props` e `PropTypes`. 
